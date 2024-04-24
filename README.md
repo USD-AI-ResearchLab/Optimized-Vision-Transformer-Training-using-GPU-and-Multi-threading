@@ -64,6 +64,7 @@ python vit.py
 ## Acknowledgments
 
 - The Vision Transformer (ViT) model is based on the work from the [vision-transformers-cifar10](https://github.com/kentaroy47/vision-transformers-cifar10) repository.
+- And Jonathan Ledet https://github.com/jonledet and his Vision Transformer: https://github.com/jonledet/vision-transformer repository
 
 ## License
 
